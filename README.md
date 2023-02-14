@@ -1,5 +1,5 @@
 # TingDog
-TingDog is a platform like (Tinder) for dogs. 
+TingDog is a platform like (Tinder) for dogs. This page is made using HTML, CSS and Bootstrap
 
 # Live-Link
 https://ajaybholanishad.github.io/TingDog/
