@@ -3,5 +3,5 @@ TingDog is a platform like (Tinder) for dogs.
 
 # Inspiration
 The inspiration for the website have been taken from the follwing:
-Angela Yu's Complete Web Development Bootcamp Course on Udemy for more check the below link
+Angela Yu's Complete Web Development Bootcamp Course on Udemy for more visit her github page
 https://github.com/angelabauer
