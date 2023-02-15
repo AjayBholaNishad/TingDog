@@ -2,7 +2,7 @@
 TingDog is a platform like (Tinder) for dogs. This page is made using HTML, CSS and Bootstrap
 
 # Live-Link
-https://ajaybholanishad.github.io/TingDog/
+https://ajay-nishad25.github.io/TingDog/
 
 # Inspiration
 The inspiration for the website have been taken from the follwing:
